@@ -97,15 +97,3 @@ The system expects a CSV file with the following columns:
 The model's performance is evaluated using:
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
-## Authors
-
-[Add author information here]
